@@ -1,17 +1,8 @@
-## 🚀 About
-Focused on building **mobile applications**.  
-Background in Computer Engineering and Database Administration, now working independently to launch multiple MVPs.  
+I like making my own apps 
 
 ---
 
-## 🛠 Tech Stack
-<div>
-  <img src="https://skillicons.dev/icons?i=react,flutter,swift,postgres,supabase,git,github,vscode" />
-</div>
-
----
-
-## 📂 Current Projects
+## Currently working on
 - **[Routewhiz](https://routewhiz.com)** – Mobile app that generates optimal city travel routes based on available time, powered by Google Maps API.
 
 ---
